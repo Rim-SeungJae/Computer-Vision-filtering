@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
 # 소개
-이 저장소는 OpenCV를 활용한 몇가지 간단한 프로젝트를 담고 있습니다.
+이 저장소는 OpenCV를 활용한 몇가지 프로젝트를 담고 있습니다.
 
 ## A1_image_filtering.py
 ![part_1_gaussian_filtered_lenna](https://github.com/Rim-SeungJae/Computer-Vision-filtering/assets/50349104/0a5ea8fd-7043-4284-a486-9a6ac26be022)
