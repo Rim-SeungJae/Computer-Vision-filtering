@@ -12,3 +12,6 @@
 이를 앞서 구현했던 함수들과 함께 활용하여 lenna.png와 shapes.png에 존제하는 edge를 감지하는 작업을 수행하였다.
 
 ## A2_corner_detection.py
+앞서 구현했던 함수들을 이용하여 x축 변화량과 y축 변화량 모두 높은 부분을 탐지하는 Harris corner detection을 구현하였다.
+Harris corner detection이란 각 픽셀에 대해 second moment 행렬을 계산한 뒤 이 행렬의 eigen value를 구하는 것으로 이 픽셀이 이미지의 corner에 해당하는지 아닌지 알아낼 수 있다.
+edge detection과 마찬가지로 비최대값 억제를 수행하였다.
